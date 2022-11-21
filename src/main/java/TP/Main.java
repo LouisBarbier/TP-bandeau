@@ -12,6 +12,7 @@ public class Main {
         bandeau.setMessage("test");
 
         scenar.presentation(bandeau);
+
         bandeau.close();
     }
 
